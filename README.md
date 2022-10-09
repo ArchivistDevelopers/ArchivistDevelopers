@@ -1,4 +1,4 @@
-![alt text](https://github.com/ArchivistDevelopers/ArchivistDevelopers/blob/main/Logo_white.png?raw=true)
+![alt text](https://github.com/ArchivistDevelopers/ArchivistDevelopers/blob/main/Solid_White.png?raw=true)
 
 :triangular_ruler:  Web3 architecture design
 
