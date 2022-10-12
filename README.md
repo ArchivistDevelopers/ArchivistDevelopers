@@ -14,5 +14,7 @@
 
 :briefcase:  Cryptocurrency wallet creation
 
+:gift:  Marketplace development for digital assets
+
 
 
